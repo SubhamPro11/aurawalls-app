@@ -1,0 +1,6 @@
+{
+  "name": "AuraWalls",
+  "description": "Premium wallpaper application fetching real-time 4K backgrounds with custom styling, on-tap setup, and AI prompt generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
